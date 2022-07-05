@@ -144,3 +144,6 @@ p{
 .letrachica {
   font-size: 15px;
 }
+.codigo::placeholder, #mensaje::placeholder,#mensaje2::placeholder{
+  color: black
+}
