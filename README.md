@@ -7,6 +7,13 @@ Puedes acceder a la web aquí:
 
 [Mi Diario](https://rose-aravena.github.io/SCL020-cipher/)
 
+## Prototipo
+
+<img src = "prototipo.png">
+
+ve el prototipo con las interacciones
+* [Prototipo] (https://www.figma.com/proto/tLU3LmyaxdA5NEAP19B58J/mi-diario?node-id=1%3A4)
+
 ## Bitácora de desarrollo
 
 * Dia 1
