@@ -3,7 +3,8 @@
 Mi diario es una pagina web en donde podrás simular como se vería tu diario de vida si lo cifraras con el "cifrado cesar", en el puedes interactuar escribiendo un texto y escogiendo un numero secreto ( numero que utilizaremos para hacer funcionar el cifrado cesar ), luego el simulador te mostrara el texto ya cifrado, ademas podrás decifrar tu mensaje utilizando el mismo código secreto que escogiste al momento de cifrarlo. 
 Esta web esta mayoritariamente dirigida a publico femenino, dentro de un rango de edad de 15 a 25 años.
 
-Puedes acceder a la web aquí: 
+Puedes acceder a la web aquí:
+
 [Mi Diario](https://rose-aravena.github.io/SCL020-cipher/)
 
 ## Bitácora de desarrollo
